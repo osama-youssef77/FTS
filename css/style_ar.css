@@ -52,14 +52,14 @@ body {
   font-size: 20pt;
   font-weight: 500;
 }
-/* #header .border-btm {
-  padding-bottom: 10px;
-  border-bottom: 4px white solid;
-} */
 
-#header .border-top {
+#header .spec-tag {
   padding-block: 10px;
-  border-block: 4px white solid;
+  border-block: 2px white solid;
+  margin-top:20px;
+  font-weight:600;
+  font-style:italic;
+  font-size: 22pt;
 }
 
 #header .main-name {
