@@ -49,15 +49,21 @@ body {
   background-position: center center;
 }
 #header .tagline {
-  font-size: 18pt;
+  font-size: 20pt;
   font-weight: 500;
 }
 #header .border-btm {
   padding-bottom: 10px;
   border-bottom: 4px white solid;
 }
+
+#header .border-top {
+  padding-top: 10px;
+  border-top: 4px white solid;
+}
+
 #header .main-name {
-  font-size: 55pt;
+  font-size: 40pt;
   font-weight: 700;
   line-height: 70pt;
 }
@@ -271,7 +277,7 @@ section .animate, section .animate2, section .animate3 {
     text-align: center !important;
   }
   #header .tagline-t {
-    margin-top: 110px;
+    margin-top: 150px;
   }
   #header .tagline {
     font-size: 16px;
@@ -280,7 +286,7 @@ section .animate, section .animate2, section .animate3 {
     border-width: 2px;
   }
   #header .main-name {
-    font-size: 50px;
+    font-size: 40px;
     line-height: 70px;
   }
   .sec-title {
