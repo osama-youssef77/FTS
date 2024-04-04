@@ -52,18 +52,18 @@ body {
   font-size: 20pt;
   font-weight: 500;
 }
-#header .border-btm {
+/* #header .border-btm {
   padding-bottom: 10px;
   border-bottom: 4px white solid;
-}
+} */
 
 #header .border-top {
-  padding-top: 10px;
-  border-top: 4px white solid;
+  padding-block: 10px;
+  border-block: 4px white solid;
 }
 
 #header .main-name {
-  font-size: 40pt;
+  font-size: 50pt;
   font-weight: 700;
   line-height: 70pt;
 }

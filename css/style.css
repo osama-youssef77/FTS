@@ -11,6 +11,8 @@ body {
 .navbar img {
   width: 200px;
 }
+
+
 .navbar .nav-word {
   color: #101E73 !important;
   font-weight: 600;
@@ -48,14 +50,14 @@ body {
   font-size: 16pt;
   font-weight: 500;
 }
-#header .border-btm {
+/* #header .border-btm {
   padding-bottom: 10px;
   border-bottom: 4px white solid;
-}
+} */
 
 #header .border-top {
-  padding-top: 10px;
-  border-top: 4px white solid;
+  padding-block: 10px;
+  border-block: 4px white solid;
 }
 
 #header .main-name {
@@ -125,7 +127,7 @@ body {
   line-height: 20pt;
 }
 #services .service-caption {
-  height: 270px;
+  height: 310px;
 }
 #services p {
   color: #101E73;
