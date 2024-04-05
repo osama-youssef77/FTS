@@ -340,10 +340,15 @@ section .animate, section .animate2, section .animate3 {
   #services .service-caption {
     height: auto;
   }
-  #services P {
+/*   #services P {
     -moz-text-align-last: center;
-         text-align-last: center;
+    text-align-last: center;
     margin-bottom: 25px;
+  } */
+
+   .spec-p{
+    text-align:right;
+    text-align-last:right;
   }
   #carosusel .item {
     height: 150px;
